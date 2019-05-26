@@ -1,24 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import HealthcareRegistrationForm from "./components/HealthcareRegistrationForm";
+import { Hero, Container, Title, SubTitle, Section } from "reactbulma";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Section>
+        <Hero>
+          <Hero.Body className="is-paddingless">
+            <Container>
+              <Title className="is-bolder">
+                Register your healthcare provider
+              </Title>
+              <SubTitle>
+                Please complete this form with accurate information
+              </SubTitle>
+            </Container>
+          </Hero.Body>
+        </Hero>
+      </Section>
+      <HealthcareRegistrationForm />
     </div>
   );
 }

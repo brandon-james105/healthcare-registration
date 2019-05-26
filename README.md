@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# I hosted this application on Github pages!
+
+Visit http://brandon-james105.github.io/healthcare-registration to view this application.
+
+## `npm run deploy`
+
+This command publishes the application to Github Pages
+
 ## Available Scripts
 
 In the project directory, you can run:
