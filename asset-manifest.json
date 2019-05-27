@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/healthcare-registration/static/css/main.4372da32.chunk.css",
-    "main.js": "/healthcare-registration/static/js/main.de1d7ce8.chunk.js",
-    "main.js.map": "/healthcare-registration/static/js/main.de1d7ce8.chunk.js.map",
+    "main.js": "/healthcare-registration/static/js/main.f01e9996.chunk.js",
+    "main.js.map": "/healthcare-registration/static/js/main.f01e9996.chunk.js.map",
     "runtime~main.js": "/healthcare-registration/static/js/runtime~main.45797990.js",
     "runtime~main.js.map": "/healthcare-registration/static/js/runtime~main.45797990.js.map",
     "static/css/2.16c862d4.chunk.css": "/healthcare-registration/static/css/2.16c862d4.chunk.css",
     "static/js/2.211bd707.chunk.js": "/healthcare-registration/static/js/2.211bd707.chunk.js",
     "static/js/2.211bd707.chunk.js.map": "/healthcare-registration/static/js/2.211bd707.chunk.js.map",
     "index.html": "/healthcare-registration/index.html",
-    "precache-manifest.1ef51c31a8728a2967208cc58d384718.js": "/healthcare-registration/precache-manifest.1ef51c31a8728a2967208cc58d384718.js",
+    "precache-manifest.fc8e641319856964edd45b839c228c95.js": "/healthcare-registration/precache-manifest.fc8e641319856964edd45b839c228c95.js",
     "service-worker.js": "/healthcare-registration/service-worker.js",
     "static/css/2.16c862d4.chunk.css.map": "/healthcare-registration/static/css/2.16c862d4.chunk.css.map",
     "static/css/main.4372da32.chunk.css.map": "/healthcare-registration/static/css/main.4372da32.chunk.css.map"
